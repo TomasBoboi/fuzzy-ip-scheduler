@@ -1,0 +1,10 @@
+.settings/
+/IpScheduler
+/Makefile
+.qtenvrc
+/.cproject
+/.oppbuildspec
+/out/
+/ipsched/config/pq_scheduler/PriorityQueueing/
+/ipsched/config/rr_scheduler/RoundRobin/
+/ipsched/config/wrr_scheduler/WeightedRoundRobin/

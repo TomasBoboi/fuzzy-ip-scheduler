@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Initial requirements}{3}{}%
+\contentsline {section}{\numberline {2}Network structure}{4}{}%
+\contentsline {subsection}{\numberline {2.1}IpScheduler}{4}{}%
+\contentsline {subsection}{\numberline {2.2}PacketHandler}{5}{}%
+\contentsline {subsection}{\numberline {2.3}User}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Queue}{5}{}%
+\contentsline {subsection}{\numberline {2.5}Sink}{6}{}%
+\contentsline {subsection}{\numberline {2.6}Scheduler}{6}{}%
+\contentsline {section}{\numberline {3}Scheduler variations}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Priority Queueing Scheduler}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Round Robin Scheduler}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Weighted Round Robin Scheduler}{8}{}%
+\contentsline {section}{\numberline {4}Comparative analysis}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Queue Lengths}{10}{}%
+\contentsline {subsection}{\numberline {4.2}Packet Lifetime}{11}{}%
+\contentsline {section}{\numberline {5}Conclusions}{12}{}%
+\contentsline {section}{\numberline {6}References}{14}{}%
