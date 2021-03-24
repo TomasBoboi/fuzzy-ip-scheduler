@@ -1,17 +1,16 @@
-\contentsline {section}{\numberline {1}Initial requirements}{3}{}%
-\contentsline {section}{\numberline {2}Network structure}{4}{}%
-\contentsline {subsection}{\numberline {2.1}IpScheduler}{4}{}%
-\contentsline {subsection}{\numberline {2.2}PacketHandler}{5}{}%
-\contentsline {subsection}{\numberline {2.3}User}{5}{}%
-\contentsline {subsection}{\numberline {2.4}Queue}{5}{}%
-\contentsline {subsection}{\numberline {2.5}Sink}{6}{}%
-\contentsline {subsection}{\numberline {2.6}Scheduler}{6}{}%
-\contentsline {section}{\numberline {3}Scheduler variations}{6}{}%
-\contentsline {subsection}{\numberline {3.1}Priority Queueing Scheduler}{6}{}%
-\contentsline {subsection}{\numberline {3.2}Round Robin Scheduler}{7}{}%
-\contentsline {subsection}{\numberline {3.3}Weighted Round Robin Scheduler}{8}{}%
-\contentsline {section}{\numberline {4}Comparative analysis}{9}{}%
-\contentsline {subsection}{\numberline {4.1}Queue Lengths}{10}{}%
-\contentsline {subsection}{\numberline {4.2}Packet Lifetime}{11}{}%
-\contentsline {section}{\numberline {5}Conclusions}{12}{}%
-\contentsline {section}{\numberline {6}References}{14}{}%
+\contentsline {section}{\numberline {1}Original assignment requirements}{3}{section.1}%
+\contentsline {section}{\numberline {2}Network structure}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}IpScheduler}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}PacketHandler}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}User}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Queue}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Sink}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Scheduler}{6}{subsection.2.6}%
+\contentsline {section}{\numberline {3}The fuzzy logic controller}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The \textit {FLC} module}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The \textit {FLC\_gen} module}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Experiments}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Simulation parameters}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Standalone experiments}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Comparative experiments}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}References}{7}{section.5}%
