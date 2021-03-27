@@ -7,10 +7,29 @@
 \BOOKMARK [2][-]{subsection.2.5}{Sink}{section.2}% 7
 \BOOKMARK [2][-]{subsection.2.6}{Scheduler}{section.2}% 8
 \BOOKMARK [1][-]{section.3}{The fuzzy logic controller}{}% 9
-\BOOKMARK [2][-]{subsection.3.1}{The FLC module}{section.3}% 10
-\BOOKMARK [2][-]{subsection.3.2}{The FLC\137gen module}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.1}{The FLC\137gen module}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{The FLC module}{section.3}% 11
 \BOOKMARK [1][-]{section.4}{Experiments}{}% 12
 \BOOKMARK [2][-]{subsection.4.1}{Simulation parameters}{section.4}% 13
 \BOOKMARK [2][-]{subsection.4.2}{Standalone experiments}{section.4}% 14
-\BOOKMARK [2][-]{subsection.4.3}{Comparative experiments}{section.4}% 15
-\BOOKMARK [1][-]{section.5}{References}{}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Varying the packet generation rate rgen}{section.4}% 15
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Experiment \0431}{subsection.4.3}% 16
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Experiment \0432}{subsection.4.3}% 17
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Experiment \0433}{subsection.4.3}% 18
+\BOOKMARK [2][-]{subsection.4.4}{Varying the wanted delay wd}{section.4}% 19
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Experiment \0434}{subsection.4.4}% 20
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Experiment \0435}{subsection.4.4}% 21
+\BOOKMARK [3][-]{subsubsection.4.4.3}{Experiment \0436}{subsection.4.4}% 22
+\BOOKMARK [2][-]{subsection.4.5}{Varying the FLC activation rate ra}{section.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.5.1}{Experiment \0437}{subsection.4.5}% 24
+\BOOKMARK [3][-]{subsubsection.4.5.2}{Experiment \0438}{subsection.4.5}% 25
+\BOOKMARK [3][-]{subsubsection.4.5.3}{Experiment \0439}{subsection.4.5}% 26
+\BOOKMARK [3][-]{subsubsection.4.5.4}{Experiment \04310}{subsection.4.5}% 27
+\BOOKMARK [2][-]{subsection.4.6}{Varying the number of users in each priority class}{section.4}% 28
+\BOOKMARK [3][-]{subsubsection.4.6.1}{Experiments \04311, \04312, \04313, and \04314}{subsection.4.6}% 29
+\BOOKMARK [2][-]{subsection.4.7}{Comparative experiments}{section.4}% 30
+\BOOKMARK [3][-]{subsubsection.4.7.1}{Comparative experiment \0431: baseline testing}{subsection.4.7}% 31
+\BOOKMARK [3][-]{subsubsection.4.7.2}{Comparative experiment \0432: slightly higher network load}{subsection.4.7}% 32
+\BOOKMARK [3][-]{subsubsection.4.7.3}{Comparative experiment \0433: more real-time high-priority users}{subsection.4.7}% 33
+\BOOKMARK [1][-]{section.5}{General conclusions}{}% 34
+\BOOKMARK [1][-]{section.6}{References}{}% 35

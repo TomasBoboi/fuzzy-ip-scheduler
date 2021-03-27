@@ -27,11 +27,51 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.5}Sink}{6}{subsection.2.5}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.6}Scheduler}{6}{subsection.2.6}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {3}The fuzzy logic controller}{6}{section.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}The \textit  {FLC} module}{6}{subsection.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}The \textit  {FLC\_gen} module}{6}{subsection.3.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4}Experiments}{6}{section.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Simulation parameters}{6}{subsection.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Standalone experiments}{6}{subsection.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Comparative experiments}{6}{subsection.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5}References}{7}{section.5}\protected@file@percent }
-\gdef \@abspage@last{7}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces The structure of the Fuzzy Logic Controller: the actual module, and the clock generator, which triggers its activation via messages}}{6}{figure.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}The \textit  {FLC\_gen} module}{6}{subsection.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}The \textit  {FLC} module}{6}{subsection.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Experiments}{7}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Simulation parameters}{7}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Standalone experiments}{8}{subsection.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Varying the packet generation rate $r_{gen}$}{8}{subsection.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1}Experiment \#1}{8}{subsubsection.4.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Here we see the FLC in action. When the average delay is under $w_{d}$, the FLC has no effect, but after the delay crosses the threshold, the FLC kicks in and adjusts the weights, bringing the average delay to the desired value.}}{8}{figure.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.2}Experiment \#2}{9}{subsubsection.4.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces We notice the same phenomena as before, except this time the network is under more load, and it takes a little more time for the average delay to stabilize at the desired value.}}{9}{figure.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.3}Experiment \#3}{9}{subsubsection.4.3.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Here, the network is at full capacity. The FLC tries to improve the average delay, but fails, and the delays for all users start growing out of control.}}{9}{figure.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Varying the wanted delay $w_{d}$}{10}{subsection.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.1}Experiment \#4}{10}{subsubsection.4.4.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces The FLC causes the average delay to converge, after an initial overshoot, to the desired value}}{10}{figure.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.2}Experiment \#5}{10}{subsubsection.4.4.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Decreasing the desired average delay also decreases the convergence time and the initial overshoot, and so the average delay settles a little faster}}{10}{figure.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.3}Experiment \#6}{11}{subsubsection.4.4.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Decreasing the average delay even further leads to even faster convergence, at the expense, of course, of the other user's delays, which have gone up significantly}}{11}{figure.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Varying the FLC activation rate $r_{a}$}{12}{subsection.4.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1}Experiment \#7}{12}{subsubsection.4.5.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces In this case, the activation time is way too low for the FLC to be able to take action, and so the average delay doesn't get to stabilize at the desired value. Leaving the simulation run for more time would eventually lead to the average delay stabilizing.}}{12}{figure.10}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2}Experiment \#8}{12}{subsubsection.4.5.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Here, the convergence time is decreased, due to the FLC adjusting the weights more often, but the average delay still fluctuates a little after one second.}}{12}{figure.11}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.3}Experiment \#9}{13}{subsubsection.4.5.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces An anomaly can be seen here: even though the activation rate is lower than in the previous experiment, the average delay seems to converge less steadily, as the difference between the actual delay and the desired delay is larger.}}{13}{figure.12}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.4}Experiment \#10}{13}{subsubsection.4.5.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces This situation has been previously seen, and in this case the rate is sufficient to allow for the average delay to stabilize at the desired value before the one second has passed.}}{13}{figure.13}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}Varying the number of users in each priority class}{14}{subsection.4.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.6.1}Experiments \#11, \#12, \#13, and \#14}{14}{subsubsection.4.6.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Experiment \#11 results}}{14}{figure.14}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Experiment \#12 results}}{14}{figure.15}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Experiment \#13 results}}{15}{figure.16}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Experiment \#14 results}}{15}{figure.17}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.7}Comparative experiments}{16}{subsection.4.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.7.1}Comparative experiment \#1: baseline testing}{16}{subsubsection.4.7.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces FLC-enhanced scheduler results}}{16}{figure.18}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Regular WRR scheduler results}}{16}{figure.19}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.7.2}Comparative experiment \#2: slightly higher network load}{17}{subsubsection.4.7.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces FLC-enhanced scheduler results}}{17}{figure.20}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Regular WRR scheduler results}}{17}{figure.21}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.7.3}Comparative experiment \#3: more real-time high-priority users}{18}{subsubsection.4.7.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces FLC-enhanced scheduler results}}{18}{figure.22}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces Regular WRR scheduler results}}{18}{figure.23}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}General conclusions}{19}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}References}{20}{section.6}\protected@file@percent }
+\gdef \@abspage@last{20}

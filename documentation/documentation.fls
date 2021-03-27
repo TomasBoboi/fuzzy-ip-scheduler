@@ -278,6 +278,16 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -316,68 +326,40 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -456,8 +438,6 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -473,9 +453,6 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 OUTPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/documentation.toc
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -492,12 +469,120 @@ INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation
 INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/packet_handler.png
 INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/packet_handler.png
 INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/packet_handler.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/flc.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/flc.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/flc.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/flc.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/flc.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_001.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_001.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_001.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_001.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_001.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_002.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_002.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_002.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_002.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_002.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_003.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_003.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_003.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_003.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_003.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_004.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_004.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_004.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_004.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_004.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_005.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_005.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_005.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_005.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_005.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_006.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_006.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_006.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_006.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_006.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_007.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_007.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_007.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_007.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_007.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_008.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_008.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_008.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_008.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_008.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_009.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_009.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_009.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_009.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_009.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_010.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_010.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_010.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_010.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_010.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_011.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_011.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_011.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_011.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_011.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_012.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_012.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_012.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_012.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_012.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_013.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_013.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_013.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_013.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_013.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_014.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_014.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_014.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_014.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/exp_014.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_001_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_002_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_1.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_2.png
+INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/images/cexp_003_2.png
 INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/documentation.aux
 INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/documentation.out
 INPUT c:/Users/boboi/Desktop/ANUL IV/SEM II/LFA/fuzzy-ip-scheduler/documentation/documentation.out
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb

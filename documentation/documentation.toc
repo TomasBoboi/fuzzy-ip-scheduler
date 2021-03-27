@@ -7,10 +7,29 @@
 \contentsline {subsection}{\numberline {2.5}Sink}{6}{subsection.2.5}%
 \contentsline {subsection}{\numberline {2.6}Scheduler}{6}{subsection.2.6}%
 \contentsline {section}{\numberline {3}The fuzzy logic controller}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}The \textit {FLC} module}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}The \textit {FLC\_gen} module}{6}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Experiments}{6}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Simulation parameters}{6}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Standalone experiments}{6}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Comparative experiments}{6}{subsection.4.3}%
-\contentsline {section}{\numberline {5}References}{7}{section.5}%
+\contentsline {subsection}{\numberline {3.1}The \textit {FLC\_gen} module}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The \textit {FLC} module}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Experiments}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Simulation parameters}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Standalone experiments}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Varying the packet generation rate $r_{gen}$}{8}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Experiment \#1}{8}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Experiment \#2}{9}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Experiment \#3}{9}{subsubsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.4}Varying the wanted delay $w_{d}$}{10}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Experiment \#4}{10}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Experiment \#5}{10}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Experiment \#6}{11}{subsubsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.5}Varying the FLC activation rate $r_{a}$}{12}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Experiment \#7}{12}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Experiment \#8}{12}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}Experiment \#9}{13}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}Experiment \#10}{13}{subsubsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.6}Varying the number of users in each priority class}{14}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Experiments \#11, \#12, \#13, and \#14}{14}{subsubsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.7}Comparative experiments}{16}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Comparative experiment \#1: baseline testing}{16}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}Comparative experiment \#2: slightly higher network load}{17}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.3}Comparative experiment \#3: more real-time high-priority users}{18}{subsubsection.4.7.3}%
+\contentsline {section}{\numberline {5}General conclusions}{19}{section.5}%
+\contentsline {section}{\numberline {6}References}{20}{section.6}%
